@@ -25,3 +25,5 @@ Born in Minsk, finished 9 classes and went to college. At the moment I work for 
 I like to watch anime and draw
 ## Education
  * College: Belarusian State College of Building Materials Industry
+## English
+A2

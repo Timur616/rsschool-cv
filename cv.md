@@ -20,3 +20,6 @@
   });
   return result;
 }
+## About Me
+Born in Minsk, finished 9 classes and went to college. At the moment I work for MTZ
+I like to watch anime and draw
